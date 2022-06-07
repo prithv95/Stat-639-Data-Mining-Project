@@ -1,0 +1,2 @@
+# Stat-639-Data-Mining-Project
+This is a data mining project that I did with two other students. There were two challenges in this project. On part was for supervised learning where we were tasked to get best prediction accuracy of a dataset containing 400 observations and 500 unknown variables. In the second challenge, the task was to get optimum clusters in an unlabeled dataset containing 1000  observations and 784 variables.
